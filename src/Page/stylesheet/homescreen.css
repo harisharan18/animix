@@ -1,0 +1,10 @@
+@media (max-width: 600px) {
+  .homescreen .row {
+    margin-top: 40px;
+  }
+
+  .homescreen .row__poster {
+    max-width: 80%;
+    margin-right: 150px;
+  }
+}
